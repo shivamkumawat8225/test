@@ -1,0 +1,61 @@
+{
+  "header":{
+     "message":"welcome to gkms services",
+     "home":"Home",
+     "contact":"Contact",
+     "search":"Search",
+     "select_language":"Select Language",
+     "hindi":"हिन्दी",
+     "english":"English"
+  },
+  "home":{
+    "body":"Best Political servey service provider in all world ! "
+  },
+  "sideBar":{
+    "message":"welcome to gkms services",
+     "home":"Home",
+     "contact":"Contact",
+     "search":"Search",
+     "select_language":"Select Language",
+     
+     "user":"User",
+     "warroom_users":"Warrrom User",
+     "monitoring_user":"Monitoring User",
+     "family_servey":"Family Survey",
+     "task":"Task",
+     "dashboard":"Dashboard"
+  },
+  "common":{
+     "search":"Search",
+     "select":"Select",
+     "user":"User",
+     "name":"Name",
+     "father":"Father Name",
+     "mobile":"Mobile",
+     "gender":"Gender",
+     "role":"Post",
+     "states":"State",
+     "jila":"District",
+     "loksabha":"Loksabha",
+     "vidhansabha":"Assambly",
+     "block":"Block",
+     "booth":"Booth",
+     "colony":"Colony",
+     "family":"Family",
+     "voter":"Voter",
+     "house_no":"House No.",
+     "voterId":"VoterId",
+     "religion":"Religion",
+     "category":"Category",
+     "caste":"Caste",
+     "party":"Party",
+     "profession":"Profession",
+     "education":"Education",
+     "disabled_voter":"Disabled Voter",
+     "outoftown_voter":"Outoftown Voter",
+     "missing_voter":"Missing Voter",
+     "dead_voter":"Dead Voter",
+     "age":"Age",
+     "dashboard":"Dashboard"
+  }
+}

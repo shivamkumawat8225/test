@@ -1,0 +1,64 @@
+{
+  "header":{
+     "message":"जीकेएमएस एप्प मे आपका स्वागत हे",
+     "home":"होम",
+     "contact":"कांटैक्ट",
+     "search":"सर्च",
+     "select_language":"भाषा चुने",
+     "hindi":"हिन्दी",
+     "english":"English"
+  },
+  "home":{
+    "body":"बेस्ट राजनेटिक सुविधाए प्रपट करने का एक मात्र स्थान "
+  },
+  "sideBar":{
+    "message":"जीकेएमएस एप्प मे आपका स्वागत हे",
+     "home":"होम",
+     "contact":"कांटैक्ट",
+     "search":"सर्च",
+     "select_language":"भाषा चुने",
+     
+     "user":"यूजर",
+     "warroom_users":"वाररूम यूजर",
+     "monitoring_user":"मॉनिटरिंग यूजर",
+     "family_servey":"परिवार सर्वे",
+     "task":"टास्क",
+     "dashboard":"डेशबोर्ड"
+  },
+  "common":{
+    "sr_no":"सीरियल न.",
+    "type":"प्रकार",
+    "reset":"रिसेट",
+     "search":"सर्च",
+     "select":"चुने",
+     "user":"यूजर",
+     "name":"नाम",
+     "father":"पिता का नाम",
+     "mobile":"मोबाइल न.",
+     "gender":"लिंग",
+     "role":"पद",
+     "states":"प्रदेश",
+     "jila":"जिला",
+     "loksabha":"लोकसभा",
+     "vidhansabha":"विधानसभा",
+     "block":"ब्लॉक",
+     "booth":"बूथ",
+     "colony":"कॉलोनी",
+     "family":"परिवार",
+     "voter":"मतदाता",
+     "house_no":"मकान न.",
+     "voterId":"वोटर आईडी",
+     "religion":"धर्म",
+     "category":"वर्ग",
+     "caste":"जाती",
+     "party":"पार्टी",
+     "profession":"व्यवसाय",
+     "education":"शिक्षा",
+     "disabled_voter":"विकलाँग",
+     "outoftown_voter":"बाहर गए मतदाता",
+     "missing_voter":"लापता मतदाता",
+     "dead_voter":"म्रत मतदाता",
+     "age":"आयु",
+     "dashboard":"डेशबोर्ड"
+  }
+}
